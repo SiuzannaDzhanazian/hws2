@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hws3.git/static/css/main.f40defb1.css",
-    "main.js": "/hws3.git/static/js/main.62d302bf.js",
-    "static/js/787.66cb4309.chunk.js": "/hws3.git/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws3.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "static/media/404.svg": "/hws3.git/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
-    "static/media/closeOutline.svg": "/hws3.git/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
-    "static/media/checked.svg": "/hws3.git/static/media/checked.b75ca55e8759862b4083.svg",
-    "index.html": "/hws3.git/index.html",
-    "static/media/burger.svg": "/hws3.git/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.f40defb1.css.map": "/hws3.git/static/css/main.f40defb1.css.map",
-    "main.62d302bf.js.map": "/hws3.git/static/js/main.62d302bf.js.map",
-    "787.66cb4309.chunk.js.map": "/hws3.git/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hws3/static/css/main.ef4462d9.css",
+    "main.js": "/hws3/static/js/main.ddb26b16.js",
+    "static/js/787.66cb4309.chunk.js": "/hws3/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws3/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/hws3/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/hws3/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/checked.svg": "/hws3/static/media/checked.b75ca55e8759862b4083.svg",
+    "index.html": "/hws3/index.html",
+    "static/media/burger.svg": "/hws3/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.ef4462d9.css.map": "/hws3/static/css/main.ef4462d9.css.map",
+    "main.ddb26b16.js.map": "/hws3/static/js/main.ddb26b16.js.map",
+    "787.66cb4309.chunk.js.map": "/hws3/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f40defb1.css",
-    "static/js/main.62d302bf.js"
+    "static/css/main.ef4462d9.css",
+    "static/js/main.ddb26b16.js"
   ]
 }
